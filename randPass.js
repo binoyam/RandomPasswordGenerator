@@ -1,6 +1,6 @@
 const passwordBox = document.getElementById("password");
 const generateBtn = document.getElementById("btn");
-const length = 14;
+const length = 10;
 
 const upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 const lowerCase = "abcdefghijklmnopqrstuvwxyz";
